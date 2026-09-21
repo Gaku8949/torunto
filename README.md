@@ -289,3 +289,6 @@ TORUNTOを通して、写真をもっと身近に感じてもらい、「自分�
   - 情報量を増やしながらUIを複雑にしない設計
   - ユーザーが継続して利用したくなる仕組みをどう作るか
   <br>
+
+  ## 画面遷移図
+  https://www.figma.com/design/UfiHb5E5J9LDUuOteODs3H/TORUNTO?node-id=0-1&p=f&m=draw
