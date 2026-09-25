@@ -292,3 +292,6 @@ TORUNTOを通して、写真をもっと身近に感じてもらい、「自分�
 
   ## 画面遷移図
   https://www.figma.com/design/UfiHb5E5J9LDUuOteODs3H/TORUNTO?node-id=0-1&p=f&m=draw
+
+  ## ER図
+  https://dbdiagram.io/d/TORUNTO-6ab48e4a0f25a52d01f00335
